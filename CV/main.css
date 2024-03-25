@@ -1,0 +1,18 @@
+.encabezado {
+  display: flex;
+}
+
+.caja-foto {
+  width: 20%;
+}
+
+.caja-titulo {
+  width: 90%;
+  background-color: rgb(30, 36, 71);
+  color: turquoise;
+}
+
+.imagen-cv {
+  width: 230px;
+  height: 199px;
+}
