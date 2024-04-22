@@ -22,6 +22,41 @@
 
 .grilla{
  display: grid;
- grid-template-columns: 300px 300px; 
- grid-template-rows: 100px 600px;
+ grid-template-columns: 300px 300px 190px; 
+ grid-template-rows: 100px 600px 390px;
 }
+
+.grilla-3x3{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(265px,1fr)); 
+  grid-template-rows: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 40px;
+ }
+
+
+ .pokemon_charizard {
+  background-color: orange;
+  text-align: center;
+  color: yellow;
+  border-radius: 10px;
+ }
+
+
+ .pokemon_ditto {
+  background-color: violet;
+  text-align: center;
+  color: yellow;
+  border-radius: 10px;
+ }
+
+ .pokemon_eeve {
+  background-color: maroon;
+  text-align: center;
+  color: yellow;
+  border-radius: 10px;
+ }
+
+ 
+
+
+
