@@ -23,4 +23,4 @@ function incrementarNumero(){
 
  document.getElementById("number").textContent = contador;
 
-}
+} 
