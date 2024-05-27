@@ -1,0 +1,15 @@
+.p{
+    color: red;
+    font-family: sans-serif;
+  }
+
+.ima {
+    width: 230px;
+    height: 199px;
+    border-radius: 30px;
+  }
+
+.detalle {
+    margin:  20px auto;
+    padding: 20px;
+}

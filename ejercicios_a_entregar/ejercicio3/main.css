@@ -1,0 +1,20 @@
+.ordenar{
+    display: grid;
+}
+
+.boton {
+
+    padding: 10px 20px;
+
+    background-color: rgb(47, 99, 45);
+    
+    color: #000000;
+
+}
+
+.tarjeta{
+    margin:  20px auto;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: brown;
+}

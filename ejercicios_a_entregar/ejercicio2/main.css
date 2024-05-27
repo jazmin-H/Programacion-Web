@@ -1,0 +1,26 @@
+.tarjeta{
+    margin:  20px auto;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.ima {
+    width: 130px;
+    height: 80px;
+}
+
+.grilla{
+    display: grid;
+    grid-template-columns: 300px 300px 190px; 
+    grid-template-rows: 100px 600px 390px;
+   }
+
+.boton {
+
+    padding: 10px 20px;
+
+    background-color: rgb(29, 45, 88);
+    
+    color: #000000;
+
+}
