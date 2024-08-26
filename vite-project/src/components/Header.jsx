@@ -2,6 +2,7 @@ import React from 'react';
 
 export const Header = () => (
   <header>
+    
     <h1>Mi portfolio</h1>
     <nav>
       <ul>

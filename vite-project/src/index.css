@@ -133,3 +133,13 @@ form button:hover {
     align-items: center;
   }
 }
+
+.i{
+  display: flex;
+  justify-content: center;
+}
+
+.imagen{
+  max-width: 100%;
+  height: auto;
+}
